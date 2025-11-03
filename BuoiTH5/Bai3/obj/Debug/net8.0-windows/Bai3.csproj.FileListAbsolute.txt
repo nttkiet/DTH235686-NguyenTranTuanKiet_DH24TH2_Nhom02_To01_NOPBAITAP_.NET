@@ -1,0 +1,16 @@
+Z:\BuoiTH5\BuoiTH5\Bai3\bin\Debug\net8.0-windows\Bai3.exe
+Z:\BuoiTH5\BuoiTH5\Bai3\bin\Debug\net8.0-windows\Bai3.deps.json
+Z:\BuoiTH5\BuoiTH5\Bai3\bin\Debug\net8.0-windows\Bai3.runtimeconfig.json
+Z:\BuoiTH5\BuoiTH5\Bai3\bin\Debug\net8.0-windows\Bai3.dll
+Z:\BuoiTH5\BuoiTH5\Bai3\bin\Debug\net8.0-windows\Bai3.pdb
+Z:\BuoiTH5\BuoiTH5\Bai3\obj\Debug\net8.0-windows\Bai3.s.resources
+Z:\BuoiTH5\BuoiTH5\Bai3\obj\Debug\net8.0-windows\Bai3.csproj.GenerateResource.cache
+Z:\BuoiTH5\BuoiTH5\Bai3\obj\Debug\net8.0-windows\Bai3.GeneratedMSBuildEditorConfig.editorconfig
+Z:\BuoiTH5\BuoiTH5\Bai3\obj\Debug\net8.0-windows\Bai3.AssemblyInfoInputs.cache
+Z:\BuoiTH5\BuoiTH5\Bai3\obj\Debug\net8.0-windows\Bai3.AssemblyInfo.cs
+Z:\BuoiTH5\BuoiTH5\Bai3\obj\Debug\net8.0-windows\Bai3.csproj.CoreCompileInputs.cache
+Z:\BuoiTH5\BuoiTH5\Bai3\obj\Debug\net8.0-windows\Bai3.dll
+Z:\BuoiTH5\BuoiTH5\Bai3\obj\Debug\net8.0-windows\refint\Bai3.dll
+Z:\BuoiTH5\BuoiTH5\Bai3\obj\Debug\net8.0-windows\Bai3.pdb
+Z:\BuoiTH5\BuoiTH5\Bai3\obj\Debug\net8.0-windows\Bai3.genruntimeconfig.cache
+Z:\BuoiTH5\BuoiTH5\Bai3\obj\Debug\net8.0-windows\ref\Bai3.dll

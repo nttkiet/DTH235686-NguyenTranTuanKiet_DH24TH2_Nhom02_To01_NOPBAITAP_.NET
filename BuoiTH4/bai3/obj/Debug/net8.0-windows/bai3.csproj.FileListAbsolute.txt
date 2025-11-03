@@ -1,0 +1,17 @@
+E:\BT_L.net\BuoiTH4\bai3\bin\Debug\net8.0-windows\bai3.exe
+E:\BT_L.net\BuoiTH4\bai3\bin\Debug\net8.0-windows\bai3.deps.json
+E:\BT_L.net\BuoiTH4\bai3\bin\Debug\net8.0-windows\bai3.runtimeconfig.json
+E:\BT_L.net\BuoiTH4\bai3\bin\Debug\net8.0-windows\bai3.dll
+E:\BT_L.net\BuoiTH4\bai3\bin\Debug\net8.0-windows\bai3.pdb
+E:\BT_L.net\BuoiTH4\bai3\obj\Debug\net8.0-windows\bai3.Form1.resources
+E:\BT_L.net\BuoiTH4\bai3\obj\Debug\net8.0-windows\bai3.csproj.GenerateResource.cache
+E:\BT_L.net\BuoiTH4\bai3\obj\Debug\net8.0-windows\bai3.GeneratedMSBuildEditorConfig.editorconfig
+E:\BT_L.net\BuoiTH4\bai3\obj\Debug\net8.0-windows\bai3.AssemblyInfoInputs.cache
+E:\BT_L.net\BuoiTH4\bai3\obj\Debug\net8.0-windows\bai3.AssemblyInfo.cs
+E:\BT_L.net\BuoiTH4\bai3\obj\Debug\net8.0-windows\bai3.csproj.CoreCompileInputs.cache
+E:\BT_L.net\BuoiTH4\bai3\obj\Debug\net8.0-windows\bai3.sourcelink.json
+E:\BT_L.net\BuoiTH4\bai3\obj\Debug\net8.0-windows\bai3.dll
+E:\BT_L.net\BuoiTH4\bai3\obj\Debug\net8.0-windows\refint\bai3.dll
+E:\BT_L.net\BuoiTH4\bai3\obj\Debug\net8.0-windows\bai3.pdb
+E:\BT_L.net\BuoiTH4\bai3\obj\Debug\net8.0-windows\bai3.genruntimeconfig.cache
+E:\BT_L.net\BuoiTH4\bai3\obj\Debug\net8.0-windows\ref\bai3.dll

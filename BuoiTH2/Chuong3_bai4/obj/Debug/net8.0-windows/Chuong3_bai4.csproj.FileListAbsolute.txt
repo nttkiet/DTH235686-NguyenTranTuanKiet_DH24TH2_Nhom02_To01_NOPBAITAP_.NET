@@ -1,0 +1,16 @@
+E:\BT_L.net\BuoiTH2\BuoiTH2\Chuong3_bai4\obj\Debug\net8.0-windows\Chuong3_bai4.Form1.resources
+E:\BT_L.net\BuoiTH2\BuoiTH2\Chuong3_bai4\obj\Debug\net8.0-windows\Chuong3_bai4.csproj.GenerateResource.cache
+E:\BT_L.net\BuoiTH2\BuoiTH2\Chuong3_bai4\obj\Debug\net8.0-windows\Chuong3_bai4.GeneratedMSBuildEditorConfig.editorconfig
+E:\BT_L.net\BuoiTH2\BuoiTH2\Chuong3_bai4\obj\Debug\net8.0-windows\Chuong3_bai4.AssemblyInfoInputs.cache
+E:\BT_L.net\BuoiTH2\BuoiTH2\Chuong3_bai4\obj\Debug\net8.0-windows\Chuong3_bai4.AssemblyInfo.cs
+E:\BT_L.net\BuoiTH2\BuoiTH2\Chuong3_bai4\obj\Debug\net8.0-windows\Chuong3_bai4.csproj.CoreCompileInputs.cache
+E:\BT_L.net\BuoiTH2\BuoiTH2\Chuong3_bai4\bin\Debug\net8.0-windows\Chuong3_bai4.exe
+E:\BT_L.net\BuoiTH2\BuoiTH2\Chuong3_bai4\bin\Debug\net8.0-windows\Chuong3_bai4.deps.json
+E:\BT_L.net\BuoiTH2\BuoiTH2\Chuong3_bai4\bin\Debug\net8.0-windows\Chuong3_bai4.runtimeconfig.json
+E:\BT_L.net\BuoiTH2\BuoiTH2\Chuong3_bai4\bin\Debug\net8.0-windows\Chuong3_bai4.dll
+E:\BT_L.net\BuoiTH2\BuoiTH2\Chuong3_bai4\bin\Debug\net8.0-windows\Chuong3_bai4.pdb
+E:\BT_L.net\BuoiTH2\BuoiTH2\Chuong3_bai4\obj\Debug\net8.0-windows\Chuong3_bai4.dll
+E:\BT_L.net\BuoiTH2\BuoiTH2\Chuong3_bai4\obj\Debug\net8.0-windows\refint\Chuong3_bai4.dll
+E:\BT_L.net\BuoiTH2\BuoiTH2\Chuong3_bai4\obj\Debug\net8.0-windows\Chuong3_bai4.pdb
+E:\BT_L.net\BuoiTH2\BuoiTH2\Chuong3_bai4\obj\Debug\net8.0-windows\Chuong3_bai4.genruntimeconfig.cache
+E:\BT_L.net\BuoiTH2\BuoiTH2\Chuong3_bai4\obj\Debug\net8.0-windows\ref\Chuong3_bai4.dll

@@ -1,0 +1,14 @@
+E:\BuoiTH1\Bai7\bin\Debug\net8.0\Bai7.exe
+E:\BuoiTH1\Bai7\bin\Debug\net8.0\Bai7.deps.json
+E:\BuoiTH1\Bai7\bin\Debug\net8.0\Bai7.runtimeconfig.json
+E:\BuoiTH1\Bai7\bin\Debug\net8.0\Bai7.dll
+E:\BuoiTH1\Bai7\bin\Debug\net8.0\Bai7.pdb
+E:\BuoiTH1\Bai7\obj\Debug\net8.0\Bai7.GeneratedMSBuildEditorConfig.editorconfig
+E:\BuoiTH1\Bai7\obj\Debug\net8.0\Bai7.AssemblyInfoInputs.cache
+E:\BuoiTH1\Bai7\obj\Debug\net8.0\Bai7.AssemblyInfo.cs
+E:\BuoiTH1\Bai7\obj\Debug\net8.0\Bai7.csproj.CoreCompileInputs.cache
+E:\BuoiTH1\Bai7\obj\Debug\net8.0\Bai7.dll
+E:\BuoiTH1\Bai7\obj\Debug\net8.0\refint\Bai7.dll
+E:\BuoiTH1\Bai7\obj\Debug\net8.0\Bai7.pdb
+E:\BuoiTH1\Bai7\obj\Debug\net8.0\Bai7.genruntimeconfig.cache
+E:\BuoiTH1\Bai7\obj\Debug\net8.0\ref\Bai7.dll

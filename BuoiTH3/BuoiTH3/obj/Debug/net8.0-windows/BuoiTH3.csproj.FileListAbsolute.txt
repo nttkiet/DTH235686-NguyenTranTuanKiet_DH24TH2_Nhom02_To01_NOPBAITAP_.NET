@@ -1,0 +1,16 @@
+Z:\BuoiTH3\BuoiTH3\bin\Debug\net8.0-windows\BuoiTH3.exe
+Z:\BuoiTH3\BuoiTH3\bin\Debug\net8.0-windows\BuoiTH3.deps.json
+Z:\BuoiTH3\BuoiTH3\bin\Debug\net8.0-windows\BuoiTH3.runtimeconfig.json
+Z:\BuoiTH3\BuoiTH3\bin\Debug\net8.0-windows\BuoiTH3.dll
+Z:\BuoiTH3\BuoiTH3\bin\Debug\net8.0-windows\BuoiTH3.pdb
+Z:\BuoiTH3\BuoiTH3\obj\Debug\net8.0-windows\BuoiTH3.chknho.resources
+Z:\BuoiTH3\BuoiTH3\obj\Debug\net8.0-windows\BuoiTH3.csproj.GenerateResource.cache
+Z:\BuoiTH3\BuoiTH3\obj\Debug\net8.0-windows\BuoiTH3.GeneratedMSBuildEditorConfig.editorconfig
+Z:\BuoiTH3\BuoiTH3\obj\Debug\net8.0-windows\BuoiTH3.AssemblyInfoInputs.cache
+Z:\BuoiTH3\BuoiTH3\obj\Debug\net8.0-windows\BuoiTH3.AssemblyInfo.cs
+Z:\BuoiTH3\BuoiTH3\obj\Debug\net8.0-windows\BuoiTH3.csproj.CoreCompileInputs.cache
+Z:\BuoiTH3\BuoiTH3\obj\Debug\net8.0-windows\BuoiTH3.dll
+Z:\BuoiTH3\BuoiTH3\obj\Debug\net8.0-windows\refint\BuoiTH3.dll
+Z:\BuoiTH3\BuoiTH3\obj\Debug\net8.0-windows\BuoiTH3.pdb
+Z:\BuoiTH3\BuoiTH3\obj\Debug\net8.0-windows\BuoiTH3.genruntimeconfig.cache
+Z:\BuoiTH3\BuoiTH3\obj\Debug\net8.0-windows\ref\BuoiTH3.dll
